@@ -6,4 +6,4 @@
 
 
 <div align=center><img src="https://github.com/hanzhongzi/Tic-Tac-Toe/blob/master/image/showtime2.png"></div>
-！[游戏游戏玩家获胜图片](https://github.com/hanzhongzi/Tic-Tac-Toe/blob/master/image/showtime2.png)
+！[游戏玩家获胜图片](https://github.com/hanzhongzi/Tic-Tac-Toe/blob/master/image/showtime2.png)
